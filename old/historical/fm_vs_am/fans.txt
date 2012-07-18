@@ -1,0 +1,89 @@
+goal=fans               AM      FM      
+Campaign id:            22782   22781   
+Spent:                  2426    2437    
+Clicks:                 30      33      
+Clicks per spent:       0.0124  0.0135  
+Fans:                   11      2       
+Fans per spent:         0.00453 0.000821
+
+
+goal=fans               AM      FM      
+Campaign id:            22784   22783   
+Spent:                  2196    1094    
+Clicks:                 24      15      
+Clicks per spent:       0.0109  0.0137  
+Fans:                   17      1       
+Fans per spent:         0.00774 0.000914
+
+
+goal=fans               AM      FM      
+Campaign id:            22786   22785   
+Spent:                  2510    2544    
+Clicks:                 31      35      
+Clicks per spent:       0.0124  0.0138  
+Fans:                   8       2       
+Fans per spent:         0.00319 0.000786
+
+
+goal=fans               AM      FM     
+Campaign id:            22788   22787  
+Spent:                  1568    2369   
+Clicks:                 19      30     
+Clicks per spent:       0.0121  0.0127 
+Fans:                   10      3      
+Fans per spent:         0.00638 0.00127
+goal=fans               AM      FM     
+
+
+Campaign id:            22885   22891  
+Spent:                  27212   321    
+Clicks:                 197     2      
+Clicks per spent:       0.00724 0.00623
+Fans:                   57      2      
+Fans per spent:         0.00209 0.00623
+
+
+goal=fans               AM      FM     
+Campaign id:            22886   22889  
+Spent:                  19481   11960  
+Clicks:                 131     83     
+Clicks per spent:       0.00672 0.00694
+Fans:                   39      25     
+Fans per spent:         0.002   0.00209
+
+
+goal=fans               AM      FM     
+Campaign id:            22887   22890  
+Spent:                  19524   11049  
+Clicks:                 161     87     
+Clicks per spent:       0.00825 0.00787
+Fans:                   51      14     
+Fans per spent:         0.00261 0.00127
+
+
+goal=fans               AM      FM   
+Campaign id:            22897   22900
+Spent:                  9524    0    
+Clicks:                 63      0    
+Clicks per spent:       0.00661 0    
+Fans:                   14      0    
+Fans per spent:         0.00147 0    
+
+
+goal=fans               AM      FM     
+Campaign id:            22896   22899  
+Spent:                  6978    3179   
+Clicks:                 45      21     
+Clicks per spent:       0.00645 0.00661
+Fans:                   6       5      
+Fans per spent:         0.00086 0.00157
+
+
+goal=fans               AM              FM      
+Campaign id:            22898           22901   
+Spent:                  13745           16217   
+Clicks:                 89              112     
+Clicks per spent:       0.00648         0.00691 
+Fans:                   12              9       
+Fans per spent:         0.000873        0.000555
+

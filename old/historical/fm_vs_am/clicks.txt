@@ -1,0 +1,25 @@
+l=clicks             AM      FM    
+Campaign id:            23074   23068 
+Spent:                  46562   592   
+Clicks:                 690     8     
+Clicks per spent:       0.0148  0.0135
+Fans:                   0       0     
+Fans per spent:         0       0     
+
+
+goal=clicks             AM      FM   
+Campaign id:            23076   23075
+Spent:                  10183   77   
+Clicks:                 148     1    
+Clicks per spent:       0.0145  0.013
+Fans:                   0       0    
+Fans per spent:         0       0    
+
+
+goal=clicks             AM      FM    
+Campaign id:            23088   23077 
+Spent:                  1449    864   
+Clicks:                 15      12    
+Clicks per spent:       0.0104  0.0139
+Fans:                   2       0     
+Fans per spent:         0.00138 0  
